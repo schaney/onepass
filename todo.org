@@ -1,0 +1,8 @@
+* DONE read vault data
+* DONE unlock vault
+* TODO read passwords from vault after it's unlocked
+* support cloudkeychain?
+* TODO use as a cli tool
+* maybe write a ui
+* i3 integration
+* browser plugin?
